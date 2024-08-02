@@ -1,0 +1,113 @@
+---
+title: "QA Project Components and Documentation"
+subtitle: "A comprehensive inventory approach"
+date: 2024-07-31
+author: Dr Ting Teck Pei
+institute: Oral Health Division, JKWPKL&P
+css: custom.scss
+format:
+    revealjs:
+        theme: [simple, custom.scss]
+        slide-number: c
+---
+
+# The QA documentation conundrum
+
+## Are you doing this?
+
+::: {.incremental}
+
+-   Storing of all documentation of QA project on Powerpoint slides
+
+-   Storing of data tables only on Power point slides
+
+-   Hiding slides, literature review too long
+
+:::
+
+## Anecdotal experiences
+
+::: {.fragment}
+>   "Where is the ABNA chart?"
+:::
+
+::: {.fragment}
+>   "Can we report the verification/pre-remedial study in Problem Prioritisation?"
+:::
+
+::: {.fragment}
+>   "This was according to a previous slide."
+:::
+
+## Problem statement
+
+::: {.incremental}
+
+1.  Messy and confusing presentation
+
+1.  Missing components
+
+1.  Redundants / repeated components
+
+Due to the problems above, difficult to sort and retrieve information about the project
+
+:::
+
+## Recommendations
+
+::: {.incremental}
+-   Google Docs + links to
+    -   Another Google Docs - like a personal wikipedia
+    -   Google Sheet - data belongs into spreadsheet
+    -   Pictures
+-   Treat slides and write-up as **products** from the complete documentation
+-   Use a checklist
+:::
+
+## Benefits
+
+::: {.incremental}
+-   Referencing software works better on word/Google Docs
+-   Google Docs function
+    -   Easy sharing and access control
+    -   Commenting and tagging
+    -   History button
+:::
+
+# Introducing the checklist
+
+## Why do we need a checklist?
+
+::: {.fragment fragment-index=1}
+*Standard list:*
+
+ABCDEF
+:::
+
+\
+
+:::: {.fragment fragment-index=2}
+*Subject:*
+
+::: {.fragment .semi-fade-out fragment-index=3}
+GJAKDC
+:::
+
+::::
+
+::: {.fragment fragment-index=3}
+A_CD__GJK
+:::
+
+## Why do we need a checklist?
+
+-   Allows breaking down the whole QA project into smaller portions
+
+# The checklist
+
+## Future direction
+
+::: incremental
+-   Permission from NIH QA Workbook team to publish the checklist on a website.
+-   Project discussion based on components in checklist.
+:::

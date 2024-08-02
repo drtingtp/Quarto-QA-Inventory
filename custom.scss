@@ -1,0 +1,14 @@
+/*-- scss:rules --*/
+.quote-source {
+    text-align: right;
+}
+
+.slide-number {
+    font-size: x-large !important;
+    bottom: 50px !important;
+    right: 50px !important;
+}
+
+.reveal .slide-number > a[href*='title-slide'] {
+    display: none;
+}
