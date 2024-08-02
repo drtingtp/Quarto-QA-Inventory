@@ -2,6 +2,7 @@
 title: "QA Project Components and Documentation"
 subtitle: "A comprehensive inventory approach"
 date: 2024-07-31
+event: QA Workshop BKP JKWPKLP 2024
 author: Dr Ting Teck Pei
 institute: Oral Health Division, JKWPKL&P
 css: custom.scss
@@ -9,6 +10,8 @@ format:
     revealjs:
         theme: [simple, custom.scss]
         slide-number: c
+        template-partials:
+            - title-slide.html
 ---
 
 # The QA documentation conundrum
