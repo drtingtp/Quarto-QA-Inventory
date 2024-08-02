@@ -20,11 +20,11 @@ format:
 
 ::: {.incremental}
 
--   Storing of all documentation of QA project on Powerpoint slides
+-   Storing all documentation of QA project on Powerpoint slides
 
--   Storing of data tables only on Power point slides
+-   Storing data tables only on Power point slides
 
--   Hiding slides, literature review too long
+-   Hiding slides, e.g. literature review too lengthy
 
 :::
 
@@ -52,11 +52,15 @@ format:
 
 1.  Redundants / repeated components
 
-Due to the problems above, difficult to sort and retrieve information about the project
-
 :::
 
-## Recommendations
+::: fragment
+Due to the problems above, difficult to curate or retrieve information about the project
+:::
+
+# Recommendation 1: Google Docs
+
+## Recommendation 1: Google Docs
 
 ::: {.incremental}
 -   Google Docs + links to
@@ -64,7 +68,6 @@ Due to the problems above, difficult to sort and retrieve information about the 
     -   Google Sheet - data belongs into spreadsheet
     -   Pictures
 -   Treat slides and write-up as **products** from the complete documentation
--   Use a checklist
 :::
 
 ## Benefits
@@ -77,7 +80,7 @@ Due to the problems above, difficult to sort and retrieve information about the 
     -   History button
 :::
 
-# Introducing the checklist
+# Recommendation 2: Checklist
 
 ## Why do we need a checklist?
 
